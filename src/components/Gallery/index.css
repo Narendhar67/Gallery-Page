@@ -1,0 +1,22 @@
+/* Write your code here. */
+
+.bg-container {
+  margin: 0px;
+  padding: 10%;
+  font-family: 'Roboto';
+}
+
+.FullImage {
+  width: 100%;
+}
+.ThumbnailBox {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.heading {
+  color: #1e293b;
+}
+.paragraph {
+  color: #64748b;
+}

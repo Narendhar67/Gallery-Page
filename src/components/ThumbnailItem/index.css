@@ -1,0 +1,13 @@
+/* Write your code here. */
+
+.ThumbnailImg {
+  margin: 5px;
+  opacity: 0.5;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
+.Opacity {
+  opacity: 1;
+}
